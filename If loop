@@ -1,0 +1,12 @@
+C = 1000
+D = 2000
+H = C+D
+G = 10000
+if (H < G):
+    print('True')
+elif H == G:
+    print('False')
+elif H != G:
+    print('True')
+else:
+    print('Please try again')
